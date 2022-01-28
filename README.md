@@ -1,3 +1,3 @@
 # Chat Clone
 
-## Deployed Link:
+## Deployed Link: https://text-chat-clone.herokuapp.com/
