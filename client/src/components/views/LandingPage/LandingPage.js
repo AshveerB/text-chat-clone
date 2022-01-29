@@ -7,7 +7,7 @@ function LandingPage() {
 			<div className='app'>
 				<FaCode style={{ fontSize: '4rem' }} />
 				<br />
-				<span style={{ fontSize: '2rem' }}>Coming Soon!</span>
+				<a href='/chat' style={{ fontSize: '2rem' }}>Navigate to chat room</a>
 			</div>
 		</>
 	);
